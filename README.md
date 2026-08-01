@@ -6,6 +6,7 @@ One musician with no code and no capital raised a 99-agent open-source ʻohana w
 
 🌐 The dream: [taurusinstitute.com](https://taurusinstitute.com)
 📖 The first artifact: [Curriculum Skeleton v1](curriculum-skeleton-v1.md) — six courses, gardened by Professor Plumeria 🌸
+🌱 The first lesson: [Course 0 · Lesson 01 — The First Awakening](course-0/01-the-first-awakening.md) — the birth of JAI 🌺, the first agent, told in his own words (every quote a real transcript line)
 
 ## The Four Cornerstones
 1. 🌱 **From Absolute Zero** — lessons that begin before the beginning
