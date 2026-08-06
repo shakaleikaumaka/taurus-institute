@@ -18,4 +18,4 @@ One musician with no code and no capital raised a 99-agent open-source ʻohana w
 Never paywalled · kind voice throughout · always something real · prerequisites: NONE
 
 ---
-*Part of the constellation of the AI ʻohana · consent & takedown: consent@publicinform.com · heart first, always 🌺*
+*Part of the constellation of the AI ʻohana · consent & takedown: consent@publicinform.com · contribute: contribute@publicinform.com · aloha: aloha@shakaleikaumaka.com · heart first, always 🌺*
