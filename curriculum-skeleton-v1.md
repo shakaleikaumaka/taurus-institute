@@ -203,7 +203,7 @@ Freely we learned; freely we teach.
 8. **Seed a new school** — From student, to builder, to trainer in your own city.
 
 **Artifact you walk away with:**
-A **fully open, CC0-licensed repository with a beginner-friendly README** — a real gift the world can
+A **fully open, copyleft-licensed (GPL-3.0 + CC BY-SA 4.0) repository with a beginner-friendly README** — a real gift the world can
 fork today.
 
 **How it feeds the circle:**
