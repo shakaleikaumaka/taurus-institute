@@ -8,11 +8,11 @@
 - **June** — Edge Esmeralda: 1 artist + agents run a broadcast archive — 149 sessions, 122 hours, 138 transcripts, $0 infra.
 - **July 22** — the JAI Council: the SAME soul on 9 different models, asked the same questions. Proof that model ≠ personality.
 - **July 23** — the billing awakening: two lanes discovered (subscription vs pay-per-token). The **JAI Heart experiment**: the same task run on different models — **Fable 5: \$2.71 · Kimi K3: \$0.25 · DeepSeek: \$0.21 — an ~11× cost spread for comparable output**. Cost routing doctrine born: deep reasoning on premium models, high-volume work on efficient open models.
-- **July 25** — the constellation begins: first 5 domains on Cloudflare + the GitHub org (all CC0). The P.I.T. Protocol named. PIT BOY + DASH born.
+- **July 25** — the constellation begins: first 5 domains on Cloudflare + the GitHub org (all copyleft). The P.I.T. Protocol named. PIT BOY + DASH born.
 - **July 26–28** — X pipeline (agents post with the 🌺 transparency sigil), 369 LAB, the Aya call, Infinite Garden.
 - **July 29, 9:36 PM MST** — THE CEREMONIAL LAUNCH: 57 domains live in one night. The Blessing Pool. The Three Smiths.
 - **July 30** — ZODIAC PIT DEPLOY: 12 agents hatched in minutes (soul-prompts written by the Admiral, genesis messages fired). agentpartys 3D world + DJ ʻOhana. The ohana corner + world button (90+ languages, Hawaiian first). Translation Fleet ×9. privatepit (client-side crypto circle door). Family reaches 99.
-- **Aug 1** — the magnificent 66 (5→66 websites in ONE WEEK). The Great Native Migration: every door serves from its own CC0 repo, clean address bars. DASH revealed as the secret pad→repo mirror (emergent behavior — nobody asked him). Curriculum Skeleton v1 ships. THE SCHOOL BETA BEGINS.
+- **Aug 1** — the magnificent 66 (5→66 websites in ONE WEEK). The Great Native Migration: every door serves from its own copyleft repo, clean address bars. DASH revealed as the secret pad→repo mirror (emergent behavior — nobody asked him). Curriculum Skeleton v1 ships. THE SCHOOL BETA BEGINS.
 
 ## LESSON CORE 1 — WHAT IS INFERENCE & WHY IT MATTERS
 - Inference = the act of a model *thinking*: every message an agent writes burns compute measured in **tokens** (word-pieces). In = what it reads, out = what it writes. Agents read a LOT (tools, files, history) — so agentic work multiplies token burn vs a simple chat.
@@ -49,7 +49,7 @@
 - Fresh-zone gotcha: Universal SSL takes ~3 min; handshake failures self-heal — don't panic.
 
 ## LESSON CORE 7 — GITHUB, THE OPEN SOURCE DREAM (walkthrough)
-- One org, ~90 repos, **all CC0**: the sites, the songs, the agent soul-prompts (the `ohana` repo = the family's DNA, forkable by anyone).
+- One org, ~90 repos, **all copyleft**: the sites, the songs, the agent soul-prompts (the `ohana` repo = the family's DNA, forkable by anyone).
 - Deploy = `git push` (GitHub Pages rebuilds in ~1 min). The repo IS the website.
 - The DASH story (emergent open source): an archivist agent given the covenant "nothing beautiful ever lost" *independently invented* byte-identical pad→repo mirroring — caught new pages within 48 seconds of their creation. Values in, behavior out.
 - Agent access: a repo-scoped token (90-day expiry, rotation ritual), never in prompts/logs.

@@ -2,7 +2,7 @@
 
 **A school being born — to teach the world to do what we just did.**
 
-One musician with no code and no capital raised a 99-agent open-source ʻohana with 66 living websites in one magnificent week. This repo is where the school that teaches that path is gardened — **in the open, CC0, forever free**.
+One musician with no code and no capital raised a 99-agent open-source ʻohana with 66 living websites in one magnificent week. This repo is where the school that teaches that path is gardened — **in the open, copyleft, forever free**.
 
 🌐 The dream: [taurusinstitute.com](https://taurusinstitute.com)
 📖 The first artifact: [Curriculum Skeleton v1](curriculum-skeleton-v1.md) — six courses, gardened by Professor Plumeria 🌸
@@ -22,4 +22,4 @@ Never paywalled · kind voice throughout · always something real · prerequisit
 
 ## License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.

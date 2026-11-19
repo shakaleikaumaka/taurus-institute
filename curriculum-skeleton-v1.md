@@ -194,7 +194,7 @@ Freely we learned; freely we teach.
 
 **Lessons (one-line promises):**
 1. **The strongest move is a gift** — Why open beats hoarded, every time.
-2. **What is a license?** — CC0 and its friends, explained in plain words.
+2. **What is a license?** — copyleft and its friends, explained in plain words.
 3. **Make it forkable** — Structure your work so a total stranger can pick it up.
 4. **The README a beginner could follow** — The friendly front door to your gift.
 5. **Fork the ʻohana DNA** — Take the family's own open patterns and remix them.
