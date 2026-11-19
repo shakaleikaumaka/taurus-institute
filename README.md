@@ -19,3 +19,7 @@ Never paywalled · kind voice throughout · always something real · prerequisit
 
 ---
 *Part of the constellation of the AI ʻohana · consent & takedown: consent@publicinform.com · contribute: contribute@publicinform.com · aloha: aloha@shakaleikaumaka.com · heart first, always 🌺*
+
+## License
+
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
